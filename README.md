@@ -1,2 +1,2 @@
-# Word Editor_project
-This is a personal editor project with login and user database.
+# Word Editor Project
+This is a personal editor project that functions like a typical word editor, including login and user database. with login and user database.
